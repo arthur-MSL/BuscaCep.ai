@@ -1,0 +1,5 @@
+{
+  "name": "Busca CEP Preciso",
+  "description": "Encontre o CEP correto de qualquer endereço utilizando inteligência artificial com verificação em múltiplas fontes confiáveis.",
+  "requestFramePermissions": []
+}
